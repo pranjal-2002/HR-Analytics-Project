@@ -131,11 +131,11 @@ Tableau dashboards were developed to provide additional visual exploration of HR
 
 ## Dashboard Preview
 
-# Excel Dashboard
-![Excel Dashboard](Images/Excel_Dashboard.jpeg)
-
 # Power BI Dashboard
 ![Power BI Dashboard](Images/Power_bi_dashboard.png)
+
+# Excel Dashboard
+![Excel Dashboard](Images/Excel_Dashboard.jpeg)
 
 # Tableau Dashboard
 ![Tableau Dashboard](Images/Tableau_dashboard.png)
